@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main(){
-    int x,y;
-    scanf("%d %d",&x,&y);
-    if(y>x){
-        printf("%d",y-x);
-    }
+    int n,m;
+    scanf("%d
+%d",&n,&m);
+    printf("%d",m-n);
 }
