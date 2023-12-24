@@ -7,9 +7,9 @@ int main(){
         res=(res*10)+ld;
     }
     if(res==n){
-        printf("Palindrome");
+        printf("True");
     }
     else{
-        printf("Not Palindrome");
+        printf("False");
     }
 }
